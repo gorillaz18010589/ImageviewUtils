@@ -1,0 +1,3 @@
+include ':ImagViewUtils'
+include ':app'
+rootProject.name = "ImageviewUtils"
